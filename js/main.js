@@ -1,4 +1,4 @@
-// URL de tu backend PHP (en desarrollo local será http://localhost/backend/index.php)
+// URL de tu backend PHP
 const API_URL = 'https://libreria-backend-b74i.onrender.com';
 
 document.getElementById('demo-form').addEventListener('submit', async (e) => {
